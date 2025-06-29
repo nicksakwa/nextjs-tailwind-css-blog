@@ -22,13 +22,13 @@ In the project directory, you can run:
 
 ## How to run this example
 
-To execute the React JS app in this repository
+To execute the Next JS app in this repository
 
 1.  Navigate to the directory containing the files in your terminal.
-2.  Run the desired script using the Python interpreter:
-    `bash
+2.  Run the desired script using the node package manadger interpreter:
+    ```bash
     npm run dev
-    `
+    ```
     Runs the app in the development mode.\
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
